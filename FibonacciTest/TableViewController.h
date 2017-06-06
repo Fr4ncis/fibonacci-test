@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableViewController.h
 //  FibonacciTest
 //
 //  Created by Francesco Mattia on 06/06/2017.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TableViewController : UITableViewController
 
 @end
-
